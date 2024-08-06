@@ -1,3 +1,3 @@
-# collab## Branches
+# collab## Branches.
 - dev
 - val-dev
