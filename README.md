@@ -1,5 +1,5 @@
 # collab
 
-## Active Branches
+## Active Branches.
 - dev
 - val-dev
